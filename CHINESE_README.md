@@ -7,3 +7,6 @@ apk版本下载地址：https://download.csdn.net/download/SUNbrightness/8516209
 
 目前进度
 安卓12 supported
+
+环境搭建教程101
+https://v.youku.com/v_show/id_XNDg2NjA3NTYyMA==.html
